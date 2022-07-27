@@ -33,12 +33,12 @@ const pages = [
         title: 'Escape Hunt',
         link: '/escape-hunt',
         component: <EscapeHunt />
-    }
-    //, {
-    //     title: 'Recruitment 2022',
-    //     link: '/recruitment',
-    //     component: <UserForm />
-    // }
+    },
+    {
+         title: 'Recruitment 2022',
+         link: '/Amreal',
+         component: <Amreal />
+     }
 ];
 
 ReactDOM.render(
